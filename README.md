@@ -8,7 +8,7 @@ Issues raised here will be handled by the SURROUND development team.
 
 ## Contact
 
-To contact the SURROUND evelopment team directly, please use:
+To contact the SURROUND development team directly, please use:
 
 <info@surroundaustralia.com>  
 +61 2 6243 4828  
